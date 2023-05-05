@@ -1,0 +1,63 @@
+body {
+    font-family: 'Jost', sans-serif;
+    font-style: normal;
+}
+
+ul {
+    list-style: none;
+}
+
+h1 {
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 32px;
+}
+
+.title {
+    font-weight: 700;
+    font-size: 54px;
+    line-height: 56px;
+}
+
+.main {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+}
+
+.text-1 {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 32px;
+}
+
+.text-1-1 {
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 32px;
+}
+
+.text-2 {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 24px;
+}
+
+.text-2-2 {
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 24px;
+}
+
+.text-3 {
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 2px;
+}
+
+.text-4 {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+}
